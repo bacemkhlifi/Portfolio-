@@ -1,0 +1,21 @@
+#modal{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    
+}
+ #mainModal{
+     width: 800px;
+     height: 640px;
+     margin: 80px auto;
+     position: relative;
+ }
+ #modalImg{
+     width: 100%;
+     height: auto;
+ }
+ button #crssbtn {
+     position: absolute;
+ }
